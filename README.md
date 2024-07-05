@@ -1,8 +1,9 @@
-# React + Vite
+# Nike_website
+This project is a modern, high-performance web application for Nike, built using React and Vite. It provides a seamless user experience with fast loading times and smooth navigation. The website includes features such as product browsing, detailed product pages, user authentication, and a shopping cart system. This repository contains the source code, documentation, and resources for the development and maintenance of the Nike website.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- **Product Browsing**: Explore a wide range of Nike products.
+- **Detailed Product Pages**: View detailed information and images for each product.
+- **User Authentication**: Sign up and log in to personalize your shopping experience.
+- **Shopping Cart**: Add products to the cart and proceed to checkout.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
